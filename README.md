@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ulisses
+# Hi 👋, I'm Ulisses <img src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png">
 
 🚀 **Front-end Developer | React & TypeScript Focused**  
 🇧🇷 Brazil  
@@ -25,7 +25,7 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 - 🎯 Front-end architecture and project organization
 - 🧩 Component reusability and scalability
 - 🎨 UI structure, layout and responsive design
-- 🔍 SEO fundamentals and performance optimization
+- 🔍 SEO avanced and performance optimization
 - ✍️ Strategic copy for landing pages and SaaS products
 - 🌐 API integration and business logic
 - 📊 JavaScript logic & problem solving
@@ -57,16 +57,8 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Professional Goal
+## 🚀
 
 > _Building structured, scalable and conversion-oriented digital products._
 
