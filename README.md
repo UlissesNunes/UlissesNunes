@@ -1,5 +1,4 @@
-# Hi 👋, I'm Ulisses <img  width="190" height="190" src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png">
-
+# Hi 👋, I'm Ulisses 
 🚀 **Front-end Developer | React & TypeScript Focused**  
 🇧🇷 Brazil  
 
@@ -8,6 +7,9 @@ I build **modern and business-oriented web applications**, combining development
 Focused on **clean code, performance, scalable front-end architecture, and product-driven solutions**.
 
 ---
+
+<img  width="190" height="190" src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png">
+
 
 ## 🌐 Where to find me
 
