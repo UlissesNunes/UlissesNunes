@@ -33,7 +33,7 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 
 ---
 
-## 🛠️ TechStack (){
+## 🛠️ Tech Stack 
 
 ### Frontend
 
@@ -56,10 +56,7 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-}
-
 ---
-
 
 ## 🚀
 
@@ -69,6 +66,3 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 
 ⭐ Feel free to explore my repositories  
 🤝 Open to internship and junior-level opportunities
-
-
-
