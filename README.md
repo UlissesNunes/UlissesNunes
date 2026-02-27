@@ -1,5 +1,5 @@
-# <span>Hi 👋, I'm Ulisses <img  width="190" height="190" src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png"></span>
-🚀 **Front-end Developer | React & TypeScript Focused**  
+# Hi 👋, I'm Ulisses
+🚀 **Front-end Developer | React & TypeScript**  
 🇧🇷 Brazil  
 
 I build **modern and business-oriented web applications**, combining development, UI structure, SEO fundamentals, and strategic copy.
@@ -33,7 +33,7 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ TechStack (){
 
 ### Frontend
 
@@ -44,7 +44,7 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-### Backend & Database (Learning & Improving)
+### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,6 +55,8 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+}
 
 ---
 
