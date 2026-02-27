@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ulisses <img src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png">
+# Hi 👋, I'm Ulisses <img src="https://www.oficinacrossbike.com.br/imagens/marcaPessoal.png" width:"40" height:"40">
 
 🚀 **Front-end Developer | React & TypeScript Focused**  
 🇧🇷 Brazil  
