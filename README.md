@@ -8,7 +8,11 @@ Focused on **clean code, performance, scalable front-end architecture, and produ
 
 ---
 
-
+<p align="left">
+  <a href="https://github.com/UlissesNunes">
+    <img src="[https://img.shields.io/badge/GitHub-ULISSES-181717?style=for-the-badge&logo=github](https://media.licdn.com/dms/image/v2/D4E16AQGS02LMYLonJA/profile-displaybackgroundimage-shrink_350_1400/B4EaGim5SJJEAY-/0/1793729467789?e=1795046400&v=beta&t=BduZZLcAZuOqS6KGAdeRl-vUaN7sH-9ekPPvM2IvNqQ)" />
+  </a>
+</p>
 
 ## 🌐 Where to find me
 
