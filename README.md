@@ -1,8 +1,7 @@
 # Olá! 👋 Eu sou Ulisses
 
-### 🚀 Desenvolvedor Full Stack | React • TypeScript • PHP
+### 🚀 Desenvolvedor Full Stack | React • Next.js • Javascript • TypeScript • PHP
 
-🇧🇷 Brasil
 
 Desenvolvo aplicações web modernas e soluções digitais orientadas a resultados. Trabalho tanto no **Frontend quanto no Backend**, buscando unir interfaces intuitivas, arquitetura organizada, integração de sistemas e eficiência.
 
